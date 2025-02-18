@@ -9,17 +9,18 @@ Transform your growing environment with the OpenGrowBox, an open-source project 
 - https://github.com/OpenGrow-Box/OpenGrowBox-HA
 
 - 
-### Overview All 
-![image](https://github.com/user-attachments/assets/9d7a9a9f-e604-45fd-8ac4-a356f580f0fe)
+### Control Panel 
+![image](https://github.com/user-attachments/assets/6a996ac9-d7fa-44fd-b5f9-0840c984ab41)
 
-### FlowerTent
-![image](https://github.com/user-attachments/assets/786b8f0a-43cb-4c22-a96c-78dbe2865512)
+### Dashboard
+![image](https://github.com/user-attachments/assets/1c6a08ca-fe2a-4840-b6c4-559f31f74c2c)
 
-### VegiTent
-![image](https://github.com/user-attachments/assets/1b9bab87-5398-43dc-95a6-061b46b9bc22)
+### GrowBook
+![image](https://github.com/user-attachments/assets/9950fff0-4dda-4355-914c-4fa010e87ea6)
 
-### DryTent
-![image](https://github.com/user-attachments/assets/8280be3d-a77d-49c6-af0c-fb8ca3347fd4)
+### Settings
+![image](https://github.com/user-attachments/assets/dcfeaade-fc02-4294-a7e1-4369720069ac)
+
 
 # Globals 
 ![image](https://github.com/user-attachments/assets/cddcb73a-e7a1-46b0-ba40-9900e91acc0e)
@@ -29,7 +30,9 @@ Transform your growing environment with the OpenGrowBox, an open-source project 
 
 ## NEWS:
 
+### FULL Migration to HA-Integration
 #### Autowatering is Completed
+
 ### Next Step is LIGHT!!!
 ---
 ## Base / Heart / Call it How You Like

@@ -22,9 +22,6 @@ Transform your growing environment with the OpenGrowBox, an open-source project 
 ![image](https://github.com/user-attachments/assets/dcfeaade-fc02-4294-a7e1-4369720069ac)
 
 
-# Globals 
-![image](https://github.com/user-attachments/assets/cddcb73a-e7a1-46b0-ba40-9900e91acc0e)
-
 
 ---
 

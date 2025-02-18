@@ -5,14 +5,10 @@ Transform your growing environment with the OpenGrowBox, an open-source project 
 
 ## Check the [WIKI](https://wiki.opengrowbox.net)
 
-## U can use the [InstallScript](https://github.com/OpenGrow-Box/OpenGrowBox/blob/main/install.sh) for installation or do it manual: 
+# Integration 
+- https://github.com/OpenGrow-Box/OpenGrowBox-HA
 
-## Or use this One-Liner with `sudo`:
-
-```bash
-wget -qO- https://raw.githubusercontent.com/OpenGrow-Box/OpenGrowBox/main/install.sh | sudo bash
-```
-
+- 
 ### Overview All 
 ![image](https://github.com/user-attachments/assets/9d7a9a9f-e604-45fd-8ac4-a356f580f0fe)
 
